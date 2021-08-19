@@ -1,0 +1,7 @@
+C:\Users\ESTUDO\Desktop\Exercicio URI\AumentodeSalario\AumentodeSalario\bin\Debug\AumentodeSalario.exe.config
+C:\Users\ESTUDO\Desktop\Exercicio URI\AumentodeSalario\AumentodeSalario\bin\Debug\AumentodeSalario.exe
+C:\Users\ESTUDO\Desktop\Exercicio URI\AumentodeSalario\AumentodeSalario\bin\Debug\AumentodeSalario.pdb
+C:\Users\ESTUDO\Desktop\Exercicio URI\AumentodeSalario\AumentodeSalario\obj\Debug\AumentodeSalario.csprojAssemblyReference.cache
+C:\Users\ESTUDO\Desktop\Exercicio URI\AumentodeSalario\AumentodeSalario\obj\Debug\AumentodeSalario.csproj.CoreCompileInputs.cache
+C:\Users\ESTUDO\Desktop\Exercicio URI\AumentodeSalario\AumentodeSalario\obj\Debug\AumentodeSalario.exe
+C:\Users\ESTUDO\Desktop\Exercicio URI\AumentodeSalario\AumentodeSalario\obj\Debug\AumentodeSalario.pdb
